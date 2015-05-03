@@ -1,0 +1,13 @@
+Connect to the wireless router on Frank. (Note: To retain internet access, plug in a wired connection)
+
+Router configuration:
+SSID: IAmFrank
+Security: Disabled (No Password)
+Static Gateway IP: 192.168.0.254
+username: pie
+password: pieisgreat
+
+SSH into Frank:
+User: ubuntu
+Password: temppwd
+Static IP: 192.168.0.1
