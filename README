@@ -11,3 +11,8 @@ SSH into Frank:
 User: ubuntu
 Password: temppwd
 Static IP: 192.168.0.1
+
+In terminal:
+ssh ubuntu@192.168.0.1
+(It takes a while for some reason. Be patient.)
+
