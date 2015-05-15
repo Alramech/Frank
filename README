@@ -7,6 +7,8 @@ Static Gateway IP: 192.168.0.254
 username: pie
 password: pieisgreat
 
+
+
 SSH into Frank:
 User: ubuntu
 Password: temppwd
@@ -16,3 +18,14 @@ In terminal:
 ssh ubuntu@192.168.0.1
 (It takes a while for some reason. Be patient.)
 
+
+
+
+Procedure (Written off [old] memory so be wary...)
+0. Plug in everything... power, grizzlies, router, etc. 
+1. SSH into Frank. 
+2. Run ImFrank.py on Frank
+    $ python ImFrank.py
+3. Plug in controllers. 
+4. Run driveFrank on your computer. 
+    $ python driveFrank.py
